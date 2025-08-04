@@ -1,7 +1,7 @@
 # 🗣️ AI Speaker App
 
 ### A sleek Python text‑to‑speech CLI app that speaks your text using your system's female voice (if available).
-
+### can exit by write exit
 ---
 
 ## ⚙️ Features
@@ -19,4 +19,5 @@
 ### 1. Install dependencies
 
 ```bash
+# install 
 pip install pyttsx3
